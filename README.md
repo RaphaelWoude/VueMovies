@@ -1,4 +1,4 @@
-# dias-movies
+# vue-movies
 
 ## Project setup
 ```
